@@ -1,0 +1,14 @@
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\bin\Debug\net8.0\Solucao_Calculadora.exe
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\bin\Debug\net8.0\Solucao_Calculadora.deps.json
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\bin\Debug\net8.0\Solucao_Calculadora.runtimeconfig.json
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\bin\Debug\net8.0\Solucao_Calculadora.dll
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\bin\Debug\net8.0\Solucao_Calculadora.pdb
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\obj\Debug\net8.0\Solucao_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\obj\Debug\net8.0\Solucao_Calculadora.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\obj\Debug\net8.0\Solucao_Calculadora.AssemblyInfo.cs
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\obj\Debug\net8.0\Solucao_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\obj\Debug\net8.0\Solucao_Calculadora.dll
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\obj\Debug\net8.0\refint\Solucao_Calculadora.dll
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\obj\Debug\net8.0\Solucao_Calculadora.pdb
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\obj\Debug\net8.0\Solucao_Calculadora.genruntimeconfig.cache
+C:\Users\paulo\Desktop\Desafios_dotnet\Desafio_05\projeto_Calc\Solucao_Calculadora\obj\Debug\net8.0\ref\Solucao_Calculadora.dll
